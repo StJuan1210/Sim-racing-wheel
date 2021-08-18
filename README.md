@@ -8,6 +8,7 @@ The first prototype
 https://youtu.be/-DbteEQGfMg
 -working video
 
+The project is based on the arduino xinput library and requires a board like the leonardo.
 The steering wheel uses a gyroscope for steering angle.
 The pedals are from a old sewing machines(these pedals are basically giant potentiometers, so just cut open the wires and link them to arduino).
 limit switches are there for paddle shifters.
